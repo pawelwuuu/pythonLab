@@ -19,5 +19,4 @@ def most_frequent_element(data: list):
     
     return maxx_key
     
-most_frequent_element(["a", "b", "c", "a", 1, 2, 3, 1])
-                
+print(most_frequent_element(["a", "b", "c", "a", 1, 2, 3, 1, "a"]))  
